@@ -1,0 +1,12 @@
+@import "base/variables";
+*{
+    font-family: 'Roboto', sans-serif;
+}
+.container{
+    width: 100%;
+    max-width: 960px;
+    margin: 0 auto;
+}
+@import "blocks/promo";
+@import "blocks/header";
+@import "blocks/buttons";
