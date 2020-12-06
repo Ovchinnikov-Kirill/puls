@@ -4,9 +4,12 @@
 }
 .container{
     width: 100%;
-    max-width: 960px;
+    max-width: 990px;
+    padding: 0 15px 0 15px;
     margin: 0 auto;
 }
 @import "blocks/promo";
 @import "blocks/header";
 @import "blocks/buttons";
+@import "blocks/advantages";
+@import "blocks/media";
