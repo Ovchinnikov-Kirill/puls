@@ -33,6 +33,12 @@
     .catalog__content{
         justify-content: space-around;
     }
+    .footer{
+        &__info{
+            width: 100%;
+            position: relative;
+        }
+    }
 }
 @media (max-width: 666px) {
     .promo{
